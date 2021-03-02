@@ -1,0 +1,365 @@
+Policy,Params,outcomes,value
+left blank,left blank,left blank,-9999.99
+Base scenario,Base scenario,Infecitons,0.2504931852615875
+Base scenario,Base scenario,YLL,0.011644596096138727
+Base scenario,Base scenario,Deaths,0.0006262297970037246
+Base scenario,Weak NPI,Infecitons,0.3367693005981982
+Base scenario,Weak NPI,YLL,0.017823473586120273
+Base scenario,Weak NPI,Deaths,0.0009381578406488235
+Base scenario,Strong NPI,Infecitons,0.13951057705789016
+Base scenario,Strong NPI,YLL,0.003839784435655868
+Base scenario,Strong NPI,Deaths,0.00021049090057865586
+Base scenario,High init. infects.,Infecitons,0.37866021791296345
+Base scenario,High init. infects.,YLL,0.02032381331619674
+Base scenario,High init. infects.,Deaths,0.0010988208025066802
+Base scenario,High sucept. ages < 20,Infecitons,0.39372796941488003
+Base scenario,High sucept. ages < 20,YLL,0.01887955189845642
+Base scenario,High sucept. ages < 20,Deaths,0.0009419805896903234
+Base scenario,Low V eff. ages > 60,Infecitons,0.250536479908996
+Base scenario,Low V eff. ages > 60,YLL,0.0129787491898378
+Base scenario,Low V eff. ages > 60,Deaths,0.0008354639422335915
+Base scenario,Low eff,Infecitons,0.36536684923201995
+Base scenario,Low eff,YLL,0.019548337975966234
+Base scenario,Low eff,Deaths,0.00110908611032776
+Base scenario,Schools open,Infecitons,0.3062867076575161
+Base scenario,Schools open,YLL,0.01495781130476886
+Base scenario,Schools open,Deaths,0.0007705728551226153
+Base scenario,Low supply,Infecitons,0.3667640171887612
+Base scenario,Low supply,YLL,0.019940345249079974
+Base scenario,Low supply,Deaths,0.0011434128261135856
+Base scenario,High contacts,Infecitons,0.28690644617254174
+Base scenario,High contacts,YLL,0.01432323535672845
+Base scenario,High contacts,Deaths,0.0007611212314894526
+Base scenario,Ramp up,Infecitons,0.35003393572335745
+Base scenario,Ramp up,YLL,0.018385869444369624
+Base scenario,Ramp up,Deaths,0.0010196769901228005
+Weak NPI,Base scenario,Infecitons,0.2537669354990382
+Weak NPI,Base scenario,YLL,0.011794484185239418
+Weak NPI,Base scenario,Deaths,0.0006366707138696055
+Weak NPI,Weak NPI,Infecitons,0.33295356546181853
+Weak NPI,Weak NPI,YLL,0.017115469851466794
+Weak NPI,Weak NPI,Deaths,0.0008371969354655918
+Weak NPI,Strong NPI,Infecitons,0.1403700006336021
+Weak NPI,Strong NPI,YLL,0.0039629761232065405
+Weak NPI,Strong NPI,Deaths,0.00025925034753566695
+Weak NPI,High init. infects.,Infecitons,0.3783546561688507
+Weak NPI,High init. infects.,YLL,0.01958392418708204
+Weak NPI,High init. infects.,Deaths,0.0009578580062044348
+Weak NPI,High sucept. ages < 20,Infecitons,0.3860748076255432
+Weak NPI,High sucept. ages < 20,YLL,0.01775325819266717
+Weak NPI,High sucept. ages < 20,Deaths,0.0007934752526948082
+Weak NPI,Low V eff. ages > 60,Infecitons,0.2539838885667714
+Weak NPI,Low V eff. ages > 60,YLL,0.014223748373321415
+Weak NPI,Low V eff. ages > 60,Deaths,0.001084746143749634
+Weak NPI,Low eff,Infecitons,0.3659185950635077
+Weak NPI,Low eff,YLL,0.019818377586650494
+Weak NPI,Low eff,Deaths,0.0011567738927334523
+Weak NPI,Schools open,Infecitons,0.30411478558748156
+Weak NPI,Schools open,YLL,0.014497381295281067
+Weak NPI,Schools open,Deaths,0.0007188094353282678
+Weak NPI,Low supply,Infecitons,0.36405959796528087
+Weak NPI,Low supply,YLL,0.01973220882233819
+Weak NPI,Low supply,Deaths,0.0010516295847007306
+Weak NPI,High contacts,Infecitons,0.2863086953293238
+Weak NPI,High contacts,YLL,0.014070577697750462
+Weak NPI,High contacts,Deaths,0.0007231228342468514
+Weak NPI,Ramp up,Infecitons,0.3472467991154571
+Weak NPI,Ramp up,YLL,0.01797997585238527
+Weak NPI,Ramp up,Deaths,0.0009629718160756363
+Strong NPI,Base scenario,Infecitons,0.25810342356091626
+Strong NPI,Base scenario,YLL,0.012227635230771116
+Strong NPI,Base scenario,Deaths,0.0006441933980715733
+Strong NPI,Weak NPI,Infecitons,0.3443755344126392
+Strong NPI,Weak NPI,YLL,0.018764440993775115
+Strong NPI,Weak NPI,Deaths,0.0009826146419797815
+Strong NPI,Strong NPI,Infecitons,0.13837645929807488
+Strong NPI,Strong NPI,YLL,0.0038112929534534754
+Strong NPI,Strong NPI,Deaths,0.00020799118610678993
+Strong NPI,High init. infects.,Infecitons,0.38553516318541614
+Strong NPI,High init. infects.,YLL,0.020997010303592557
+Strong NPI,High init. infects.,Deaths,0.0011460305746617953
+Strong NPI,High sucept. ages < 20,Infecitons,0.41117911601566637
+Strong NPI,High sucept. ages < 20,YLL,0.01997549667147039
+Strong NPI,High sucept. ages < 20,Deaths,0.001015492211349615
+Strong NPI,Low V eff. ages > 60,Infecitons,0.25821190075664324
+Strong NPI,Low V eff. ages > 60,YLL,0.013290746508087769
+Strong NPI,Low V eff. ages > 60,Deaths,0.000783401987311763
+Strong NPI,Low eff,Infecitons,0.3710969635822635
+Strong NPI,Low eff,YLL,0.020042095891325603
+Strong NPI,Low eff,Deaths,0.001101354715640693
+Strong NPI,Schools open,Infecitons,0.3176155357477017
+Strong NPI,Schools open,YLL,0.0157633400735398
+Strong NPI,Schools open,Deaths,0.0008109460701931802
+Strong NPI,Low supply,Infecitons,0.3703475479962463
+Strong NPI,Low supply,YLL,0.020367138512671523
+Strong NPI,Low supply,Deaths,0.001160328048441924
+Strong NPI,High contacts,Infecitons,0.2922543134813503
+Strong NPI,High contacts,YLL,0.015011764394614206
+Strong NPI,High contacts,Deaths,0.0007931232784998172
+Strong NPI,Ramp up,Infecitons,0.3538248833556762
+Strong NPI,Ramp up,YLL,0.018933137634651362
+Strong NPI,Ramp up,Deaths,0.00104406113928487
+High init. infects.,Base scenario,Infecitons,0.2590153394697989
+High init. infects.,Base scenario,YLL,0.012721756174974152
+High init. infects.,Base scenario,Deaths,0.0006533950176639514
+High init. infects.,Weak NPI,Infecitons,0.33891182499150263
+High init. infects.,Weak NPI,YLL,0.017727590213209854
+High init. infects.,Weak NPI,Deaths,0.0008586159976649945
+High init. infects.,Strong NPI,Infecitons,0.1417746211366501
+High init. infects.,Strong NPI,YLL,0.004428722334926411
+High init. infects.,Strong NPI,Deaths,0.0002603592986322793
+High init. infects.,High init. infects.,Infecitons,0.3706125649951978
+High init. infects.,High init. infects.,YLL,0.019219081013163858
+High init. infects.,High init. infects.,Deaths,0.0009478567962014503
+High init. infects.,High sucept. ages < 20,Infecitons,0.38707599965459005
+High init. infects.,High sucept. ages < 20,YLL,0.01787415105299232
+High init. infects.,High sucept. ages < 20,Deaths,0.0008183175663242189
+High init. infects.,Low V eff. ages > 60,Infecitons,0.25927090215794185
+High init. infects.,Low V eff. ages > 60,YLL,0.016144038469931826
+High init. infects.,Low V eff. ages > 60,Deaths,0.0010831863065441196
+High init. infects.,Low eff,Infecitons,0.37232642304239616
+High init. infects.,Low eff,YLL,0.02062959968615649
+High init. infects.,Low eff,Deaths,0.0011648183133889465
+High init. infects.,Schools open,Infecitons,0.3084676375279226
+High init. infects.,Schools open,YLL,0.01515503139382073
+High init. infects.,Schools open,Deaths,0.0007387318176670483
+High init. infects.,Low supply,Infecitons,0.3588486989634002
+High init. infects.,Low supply,YLL,0.020008827900054572
+High init. infects.,Low supply,Deaths,0.0010529251598514122
+High init. infects.,High contacts,Infecitons,0.2923196581744498
+High init. infects.,High contacts,YLL,0.014882052076139796
+High init. infects.,High contacts,Deaths,0.0007432179816589953
+High init. infects.,Ramp up,Infecitons,0.3444310982918978
+High init. infects.,Ramp up,YLL,0.018286876215360483
+High init. infects.,Ramp up,Deaths,0.0009683999880401831
+High sucept. ages < 20,Base scenario,Infecitons,0.26533862899967664
+High sucept. ages < 20,Base scenario,YLL,0.012194899195518838
+High sucept. ages < 20,Base scenario,Deaths,0.000642134435598729
+High sucept. ages < 20,Weak NPI,Infecitons,0.3511301641750971
+High sucept. ages < 20,Weak NPI,YLL,0.017502607380351427
+High sucept. ages < 20,Weak NPI,Deaths,0.000847715847277957
+High sucept. ages < 20,Strong NPI,Infecitons,0.144307793373287
+High sucept. ages < 20,Strong NPI,YLL,0.004208161852225908
+High sucept. ages < 20,Strong NPI,Deaths,0.0002567355752227425
+High sucept. ages < 20,High init. infects.,Infecitons,0.386591626961457
+High sucept. ages < 20,High init. infects.,YLL,0.019696823069800196
+High sucept. ages < 20,High init. infects.,Deaths,0.0009608925558559173
+High sucept. ages < 20,High sucept. ages < 20,Infecitons,0.3820358704016818
+High sucept. ages < 20,High sucept. ages < 20,YLL,0.017534377232364735
+High sucept. ages < 20,High sucept. ages < 20,Deaths,0.0007968601934181908
+High sucept. ages < 20,Low V eff. ages > 60,Infecitons,0.2654769015787609
+High sucept. ages < 20,Low V eff. ages > 60,YLL,0.015412966723126581
+High sucept. ages < 20,Low V eff. ages > 60,Deaths,0.0010979412750522252
+High sucept. ages < 20,Low eff,Infecitons,0.37545228295111366
+High sucept. ages < 20,Low eff,YLL,0.02024439558361536
+High sucept. ages < 20,Low eff,Deaths,0.0011625180851667714
+High sucept. ages < 20,Schools open,Infecitons,0.31217967457022294
+High sucept. ages < 20,Schools open,YLL,0.014681523572005988
+High sucept. ages < 20,Schools open,Deaths,0.0007244707761156934
+High sucept. ages < 20,Low supply,Infecitons,0.37533382674009375
+High sucept. ages < 20,Low supply,YLL,0.02017143762868686
+High sucept. ages < 20,Low supply,Deaths,0.0010535697709451093
+High sucept. ages < 20,High contacts,Infecitons,0.29923987902953053
+High sucept. ages < 20,High contacts,YLL,0.0143992861507333
+High sucept. ages < 20,High contacts,Deaths,0.0007282879911220842
+High sucept. ages < 20,Ramp up,Infecitons,0.3574892914418599
+High sucept. ages < 20,Ramp up,YLL,0.018356589243515766
+High sucept. ages < 20,Ramp up,Deaths,0.0009665200261972462
+Low V eff. ages > 60,Base scenario,Infecitons,0.25062373785275216
+Low V eff. ages > 60,Base scenario,YLL,0.012329239396352972
+Low V eff. ages > 60,Base scenario,Deaths,0.0006818008170741154
+Low V eff. ages > 60,Weak NPI,Infecitons,0.3369169206358162
+Low V eff. ages > 60,Weak NPI,YLL,0.019203790284813976
+Low V eff. ages > 60,Weak NPI,Deaths,0.0010635082542871579
+Low V eff. ages > 60,Strong NPI,Infecitons,0.13951655539197588
+Low V eff. ages > 60,Strong NPI,YLL,0.003952428483678304
+Low V eff. ages > 60,Strong NPI,Deaths,0.00021572355735311092
+Low V eff. ages > 60,High init. infects.,Infecitons,0.3787317868577691
+Low V eff. ages > 60,High init. infects.,YLL,0.02131933438970884
+Low V eff. ages > 60,High init. infects.,Deaths,0.0011893892754972187
+Low V eff. ages > 60,High sucept. ages < 20,Infecitons,0.39383619179296137
+Low V eff. ages > 60,High sucept. ages < 20,YLL,0.019708222348098978
+Low V eff. ages > 60,High sucept. ages < 20,Deaths,0.0011181306263560041
+Low V eff. ages > 60,Low V eff. ages > 60,Infecitons,0.25066266491518985
+Low V eff. ages > 60,Low V eff. ages > 60,YLL,0.012766844443739465
+Low V eff. ages > 60,Low V eff. ages > 60,Deaths,0.0007515252607525031
+Low V eff. ages > 60,Low eff,Infecitons,0.3630398198830378
+Low V eff. ages > 60,Low eff,YLL,0.02004690474492639
+Low V eff. ages > 60,Low eff,Deaths,0.0011210000363327558
+Low V eff. ages > 60,Schools open,Infecitons,0.3063053891531793
+Low V eff. ages > 60,Schools open,YLL,0.015601551127984796
+Low V eff. ages > 60,Schools open,Deaths,0.0008681465200205021
+Low V eff. ages > 60,Low supply,Infecitons,0.36679765958565913
+Low V eff. ages > 60,Low supply,YLL,0.02031316839524812
+Low V eff. ages > 60,Low supply,Deaths,0.0011650455709636771
+Low V eff. ages > 60,High contacts,Infecitons,0.2870174199530056
+Low V eff. ages > 60,High contacts,YLL,0.015179096271326787
+Low V eff. ages > 60,High contacts,Deaths,0.000842582225782502
+Low V eff. ages > 60,Ramp up,Infecitons,0.35005670129901245
+Low V eff. ages > 60,Ramp up,YLL,0.019071289485426877
+Low V eff. ages > 60,Ramp up,Deaths,0.0010786491393832464
+Low eff,Base scenario,Infecitons,0.25146807387134346
+Low eff,Base scenario,YLL,0.011688072363724659
+Low eff,Base scenario,Deaths,0.0006368375154363459
+Low eff,Weak NPI,Infecitons,0.3360228995459259
+Low eff,Weak NPI,YLL,0.01791291023636208
+Low eff,Weak NPI,Deaths,0.0009774240987122668
+Low eff,Strong NPI,Infecitons,0.13978491772432647
+Low eff,Strong NPI,YLL,0.0038457280638195257
+Low eff,Strong NPI,Deaths,0.00020927774701468157
+Low eff,High init. infects.,Infecitons,0.3785732292281083
+Low eff,High init. infects.,YLL,0.02036972281521655
+Low eff,High init. infects.,Deaths,0.0011386159515787632
+Low eff,High sucept. ages < 20,Infecitons,0.39151124365352746
+Low eff,High sucept. ages < 20,YLL,0.01878231194828634
+Low eff,High sucept. ages < 20,Deaths,0.0010143320090400228
+Low eff,Low V eff. ages > 60,Infecitons,0.2515001251445103
+Low eff,Low V eff. ages > 60,YLL,0.01294170591392738
+Low eff,Low V eff. ages > 60,Deaths,0.0007646397252317168
+Low eff,Low eff,Infecitons,0.36172553911125105
+Low eff,Low eff,YLL,0.01934808718042058
+Low eff,Low eff,Deaths,0.0010835703617381705
+Low eff,Schools open,Infecitons,0.30620674850316976
+Low eff,Schools open,YLL,0.014843896108702626
+Low eff,Schools open,Deaths,0.0008011005299914891
+Low eff,Low supply,Infecitons,0.36695151961499045
+Low eff,Low supply,YLL,0.0199755482499153
+Low eff,Low supply,Deaths,0.0011565341051724774
+Low eff,High contacts,Infecitons,0.28669331419162813
+Low eff,High contacts,YLL,0.01420933443593231
+Low eff,High contacts,Deaths,0.0007836171207492359
+Low eff,Ramp up,Infecitons,0.3495475840240749
+Low eff,Ramp up,YLL,0.018437312200869634
+Low eff,Ramp up,Deaths,0.0010414204542418231
+Schools open,Base scenario,Infecitons,0.2516030683219291
+Schools open,Base scenario,YLL,0.011749686156543234
+Schools open,Base scenario,Deaths,0.0006330439757369805
+Schools open,Weak NPI,Infecitons,0.33593260365819727
+Schools open,Weak NPI,YLL,0.01730742000718946
+Schools open,Weak NPI,Deaths,0.00086372696365636
+Schools open,Strong NPI,Infecitons,0.13980920305045821
+Schools open,Strong NPI,YLL,0.0039589266543143395
+Schools open,Strong NPI,Deaths,0.00024455417584069906
+Schools open,High init. infects.,Infecitons,0.37840517559538905
+Schools open,High init. infects.,YLL,0.01972591351857227
+Schools open,High init. infects.,Deaths,0.0009750897576723665
+Schools open,High sucept. ages < 20,Infecitons,0.3874730289813677
+Schools open,High sucept. ages < 20,YLL,0.017691676983610197
+Schools open,High sucept. ages < 20,Deaths,0.0008054104686023652
+Schools open,Low V eff. ages > 60,Infecitons,0.25170768448512776
+Schools open,Low V eff. ages > 60,YLL,0.01424816992540414
+Schools open,Low V eff. ages > 60,Deaths,0.0010561611553823922
+Schools open,Low eff,Infecitons,0.36257596654578966
+Schools open,Low eff,YLL,0.019812532653017145
+Schools open,Low eff,Deaths,0.0011471939018788293
+Schools open,Schools open,Infecitons,0.3025745386898509
+Schools open,Schools open,YLL,0.014427973558036135
+Schools open,Schools open,Deaths,0.0007227708291621321
+Schools open,Low supply,Infecitons,0.3652634271064853
+Schools open,Low supply,YLL,0.019804841473679974
+Schools open,Low supply,Deaths,0.0010520681729540872
+Schools open,High contacts,Infecitons,0.28400393334005886
+Schools open,High contacts,YLL,0.014026619222099088
+Schools open,High contacts,Deaths,0.000727095772052932
+Schools open,Ramp up,Infecitons,0.34821512799989185
+Schools open,Ramp up,YLL,0.018032248355851387
+Schools open,Ramp up,Deaths,0.0009620659388199436
+Low supply,Base scenario,Infecitons,0.2573008560132518
+Low supply,Base scenario,YLL,0.012103957850163693
+Low supply,Base scenario,Deaths,0.0006513986923303257
+Low supply,Weak NPI,Infecitons,0.3381365762635601
+Low supply,Weak NPI,YLL,0.01752052464554545
+Low supply,Weak NPI,Deaths,0.0008746863202611277
+Low supply,Strong NPI,Infecitons,0.14121364871878425
+Low supply,Strong NPI,YLL,0.004013134308391813
+Low supply,Strong NPI,Deaths,0.00024107008403799506
+Low supply,High init. infects.,Infecitons,0.37144997564514504
+Low supply,High init. infects.,YLL,0.019534269475881896
+Low supply,High init. infects.,Deaths,0.0009736185591040015
+Low supply,High sucept. ages < 20,Infecitons,0.3872444299524951
+Low supply,High sucept. ages < 20,YLL,0.01815963522477149
+Low supply,High sucept. ages < 20,Deaths,0.0008357860010483281
+Low supply,Low V eff. ages > 60,Infecitons,0.25760736786317207
+Low supply,Low V eff. ages > 60,YLL,0.014592433055833666
+Low supply,Low V eff. ages > 60,Deaths,0.0010312671954831214
+Low supply,Low eff,Infecitons,0.37092153244446946
+Low supply,Low eff,YLL,0.020187779653864483
+Low supply,Low eff,Deaths,0.0011560752627820623
+Low supply,Schools open,Infecitons,0.3080535104483015
+Low supply,Schools open,YLL,0.014922224171455143
+Low supply,Schools open,Deaths,0.0007494078334216802
+Low supply,Low supply,Infecitons,0.3588037383145175
+Low supply,Low supply,YLL,0.019383786188271697
+Low supply,Low supply,Deaths,0.0010463209902483303
+Low supply,High contacts,Infecitons,0.2905293596023858
+Low supply,High contacts,YLL,0.014428512933981966
+Low supply,High contacts,Deaths,0.0007511737417042353
+Low supply,Ramp up,Infecitons,0.3450261133002026
+Low supply,Ramp up,YLL,0.017869120295801514
+Low supply,Ramp up,Deaths,0.0009617204717274207
+High contacts,Base scenario,Infecitons,0.2514515943345637
+High contacts,Base scenario,YLL,0.011713071874952779
+High contacts,Base scenario,Deaths,0.0006233431316030862
+High contacts,Weak NPI,Infecitons,0.3360383137213858
+High contacts,Weak NPI,YLL,0.017347917872924484
+High contacts,Weak NPI,Deaths,0.0008529199135880654
+High contacts,Strong NPI,Infecitons,0.13978776934375894
+High contacts,Strong NPI,YLL,0.00393135186142297
+High contacts,Strong NPI,Deaths,0.00023240420196615324
+High contacts,High init. infects.,Infecitons,0.3784812474140939
+High contacts,High init. infects.,YLL,0.019783454426968664
+High contacts,High init. infects.,Deaths,0.0009675080040160726
+High contacts,High sucept. ages < 20,Infecitons,0.38805546646752603
+High contacts,High sucept. ages < 20,YLL,0.017800338602264723
+High contacts,High sucept. ages < 20,Deaths,0.000816942438691493
+High contacts,Low V eff. ages > 60,Infecitons,0.2515101334845638
+High contacts,Low V eff. ages > 60,YLL,0.01405125231748428
+High contacts,Low V eff. ages > 60,Deaths,0.0009974969225036959
+High contacts,Low eff,Infecitons,0.3628765750871239
+High contacts,Low eff,YLL,0.0197689814267375
+High contacts,Low eff,Deaths,0.0011306259484933664
+High contacts,Schools open,Infecitons,0.3032313338052906
+High contacts,Schools open,YLL,0.014450197292224375
+High contacts,Schools open,Deaths,0.0007206493146171471
+High contacts,Low supply,Infecitons,0.3652860697888054
+High contacts,Low supply,YLL,0.019794954780401466
+High contacts,Low supply,Deaths,0.0010494769712235906
+High contacts,High contacts,Infecitons,0.2838201591189811
+High contacts,High contacts,YLL,0.014011679061858134
+High contacts,High contacts,Deaths,0.0007232194420951989
+High contacts,Ramp up,Infecitons,0.34869065075482364
+High contacts,Ramp up,YLL,0.018050144403447838
+High contacts,Ramp up,Deaths,0.0009539652927856684
+Ramp up,Base scenario,Infecitons,0.25860067245258217
+Ramp up,Base scenario,YLL,0.011969818807312349
+Ramp up,Base scenario,Deaths,0.0006364000694465938
+Ramp up,Weak NPI,Infecitons,0.3384759672005035
+Ramp up,Weak NPI,YLL,0.01735600104001954
+Ramp up,Weak NPI,Deaths,0.0008679846706132348
+Ramp up,Strong NPI,Infecitons,0.14165084491078014
+Ramp up,Strong NPI,YLL,0.003991914065742493
+Ramp up,Strong NPI,Deaths,0.0002372900172518994
+Ramp up,High init. infects.,Infecitons,0.3723305057832346
+Ramp up,High init. infects.,YLL,0.01945141662975135
+Ramp up,High init. infects.,Deaths,0.0009777351435909748
+Ramp up,High sucept. ages < 20,Infecitons,0.38709312434668103
+Ramp up,High sucept. ages < 20,YLL,0.018050497868724077
+Ramp up,High sucept. ages < 20,Deaths,0.0008350807316015277
+Ramp up,Low V eff. ages > 60,Infecitons,0.25877349312759457
+Ramp up,Low V eff. ages > 60,YLL,0.014370466953345332
+Ramp up,Low V eff. ages > 60,Deaths,0.001000112135443426
+Ramp up,Low eff,Infecitons,0.3718035496889837
+Ramp up,Low eff,YLL,0.020015577136621054
+Ramp up,Low eff,Deaths,0.0011406743617978178
+Ramp up,Schools open,Infecitons,0.3080920024798902
+Ramp up,Schools open,YLL,0.014757043819146918
+Ramp up,Schools open,Deaths,0.0007349620805262125
+Ramp up,Low supply,Infecitons,0.35950008483308105
+Ramp up,Low supply,YLL,0.019421883812473756
+Ramp up,Low supply,Deaths,0.0010465853490801954
+Ramp up,High contacts,Infecitons,0.29185739767380586
+Ramp up,High contacts,YLL,0.01427705221283224
+Ramp up,High contacts,Deaths,0.0007378700012155611
+Ramp up,Ramp up,Infecitons,0.3440319804837351
+Ramp up,Ramp up,YLL,0.017793021183407875
+Ramp up,Ramp up,Deaths,0.0009507873409273133

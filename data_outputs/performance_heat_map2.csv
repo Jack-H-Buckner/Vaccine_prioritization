@@ -1,0 +1,29 @@
+policy,parameter,outcome,value
+left_blank,left_blank,left_blank,-9999.0
+Base senario,Base senario,deaths,0.0010693040007931456
+Base senario,Base senario,YLL,0.01858821035223317
+Base senario,Base senario,infections,0.3286891359755624
+Base senario,Weak NPI,deaths,0.0015884840861163443
+Base senario,Weak NPI,YLL,0.026892393017549268
+Base senario,Weak NPI,infections,0.4249957560618838
+Base senario,Strong NPI,deaths,0.00037031258346985075
+Base senario,Strong NPI,YLL,0.006730340452619129
+Base senario,Strong NPI,infections,0.17612314638970875
+Weak NPI,Base senario,deaths,0.001001745333537403
+Weak NPI,Base senario,YLL,0.017323147018879003
+Weak NPI,Base senario,infections,0.3146070560373586
+Weak NPI,Weak NPI,deaths,0.001488748616146051
+Weak NPI,Weak NPI,YLL,0.02511670726128669
+Weak NPI,Weak NPI,infections,0.4044716665511461
+Weak NPI,Strong NPI,deaths,0.0003467759287442418
+Weak NPI,Strong NPI,YLL,0.0062710539168092
+Weak NPI,Strong NPI,infections,0.1705385101086445
+Strong NPI,Base senario,deaths,0.0010711383018414179
+Strong NPI,Base senario,YLL,0.018624533706625465
+Strong NPI,Base senario,infections,0.32901668114068267
+Strong NPI,Weak NPI,deaths,0.001591458973628143
+Strong NPI,Weak NPI,YLL,0.026946277909449853
+Strong NPI,Weak NPI,infections,0.4254869630289597
+Strong NPI,Strong NPI,deaths,0.0003711453127759731
+Strong NPI,Strong NPI,YLL,0.006746612043337256
+Strong NPI,Strong NPI,infections,0.1763021507734714

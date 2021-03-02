@@ -1,0 +1,194 @@
+policy,parameter,outcome,value
+left_blank,left_blank,left_blank,-9999.0
+Base senario,Base senario,deaths,0.000905695267039563
+Base senario,Base senario,YLL,0.016315901134587918
+Base senario,Base senario,infections,0.3192904172217761
+Base senario,Weak NPI,deaths,0.0013569134485769904
+Base senario,Weak NPI,YLL,0.023588509255093013
+Base senario,Weak NPI,infections,0.4139826126953188
+Base senario,Strong NPI,deaths,0.00031514604978219744
+Base senario,Strong NPI,YLL,0.005956149518720956
+Base senario,Strong NPI,infections,0.17233847319749118
+Base senario,High initial conditions,deaths,0.0012544533229293005
+Base senario,High initial conditions,YLL,0.021725048805890726
+Base senario,High initial conditions,infections,0.39866401515236455
+Base senario,High sucept. children,deaths,0.0014137250878566486
+Base senario,High sucept. children,YLL,0.02382352890904099
+Base senario,High sucept. children,infections,0.4732418127505033
+Base senario,Low effectiveness 60,deaths,0.0008588207715950695
+Base senario,Low effectiveness 60,YLL,0.015615884456667724
+Base senario,Low effectiveness 60,infections,0.31146120479079914
+Base senario,Low effectiveness,deaths,0.0011576239564437712
+Base senario,Low effectiveness,YLL,0.02060321318238395
+Base senario,Low effectiveness,infections,0.3848426067812254
+Base senario,Schools open,deaths,0.0015339186609252976
+Base senario,Schools open,YLL,0.026295077061536744
+Base senario,Schools open,infections,0.49562636528636717
+Weak NPI,Base senario,deaths,0.0009637564112576203
+Weak NPI,Base senario,YLL,0.016192762760899006
+Weak NPI,Base senario,infections,0.3158515412403806
+Weak NPI,Weak NPI,deaths,0.001354956516500447
+Weak NPI,Weak NPI,YLL,0.023247242394193745
+Weak NPI,Weak NPI,infections,0.4061694301817246
+Weak NPI,Strong NPI,deaths,0.0003844216299481616
+Weak NPI,Strong NPI,YLL,0.005910698812221764
+Weak NPI,Strong NPI,infections,0.17097526754684822
+Weak NPI,High initial conditions,deaths,0.0012431350238803693
+Weak NPI,High initial conditions,YLL,0.021690258198291956
+Weak NPI,High initial conditions,infections,0.39388124535010843
+Weak NPI,High sucept. children,deaths,0.0013263239431967598
+Weak NPI,High sucept. children,YLL,0.023754822578736096
+Weak NPI,High sucept. children,infections,0.469639274787382
+Weak NPI,Low effectiveness 60,deaths,0.0009794041926224726
+Weak NPI,Low effectiveness 60,YLL,0.01550873655545828
+Weak NPI,Low effectiveness 60,infections,0.3074355482311479
+Weak NPI,Low effectiveness,deaths,0.0011999128640971337
+Weak NPI,Low effectiveness,YLL,0.020529888980714506
+Weak NPI,Low effectiveness,infections,0.38189891811086474
+Weak NPI,Schools open,deaths,0.001429711186620653
+Weak NPI,Schools open,YLL,0.026028652209690313
+Weak NPI,Schools open,infections,0.4892120564869277
+Strong NPI,Base senario,deaths,0.000921376009812824
+Strong NPI,Base senario,YLL,0.014182567609099205
+Strong NPI,Base senario,infections,0.33013781256241936
+Strong NPI,Weak NPI,deaths,0.0013757528816755746
+Strong NPI,Weak NPI,YLL,0.021220026180526604
+Strong NPI,Weak NPI,infections,0.42712396413662274
+Strong NPI,Strong NPI,deaths,0.0003210103098444391
+Strong NPI,Strong NPI,YLL,0.005133242780201316
+Strong NPI,Strong NPI,infections,0.17668654819455337
+Strong NPI,High initial conditions,deaths,0.001264927974930391
+Strong NPI,High initial conditions,YLL,0.020721341402593237
+Strong NPI,High initial conditions,infections,0.4061783623485016
+Strong NPI,High sucept. children,deaths,0.0014288750506256573
+Strong NPI,High sucept. children,YLL,0.022004050935667725
+Strong NPI,High sucept. children,infections,0.4883479020653122
+Strong NPI,Low effectiveness 60,deaths,0.0008762131568483432
+Strong NPI,Low effectiveness 60,YLL,0.013321960770497396
+Strong NPI,Low effectiveness 60,infections,0.32397944655656435
+Strong NPI,Low effectiveness,deaths,0.0011695794857839027
+Strong NPI,Low effectiveness,YLL,0.019055901700136015
+Strong NPI,Low effectiveness,infections,0.3937997674060357
+Strong NPI,Schools open,deaths,0.0015483204749074599
+Strong NPI,Schools open,YLL,0.024645169454813716
+Strong NPI,Schools open,infections,0.5070983957770656
+High initial conditions,Base senario,deaths,0.0009614611543370781
+High initial conditions,Base senario,YLL,0.016433618407637865
+High initial conditions,Base senario,infections,0.29485006074033066
+High initial conditions,Weak NPI,deaths,0.0013053697203389844
+High initial conditions,Weak NPI,YLL,0.02269318693785244
+High initial conditions,Weak NPI,infections,0.3836399135416457
+High initial conditions,Strong NPI,deaths,0.0004006002697063996
+High initial conditions,Strong NPI,YLL,0.006842456699971949
+High initial conditions,Strong NPI,infections,0.16227259364618327
+High initial conditions,High initial conditions,deaths,0.0011878869940566267
+High initial conditions,High initial conditions,YLL,0.02135361521746207
+High initial conditions,High initial conditions,infections,0.3806634789287129
+High initial conditions,High sucept. children,deaths,0.0012584791469740643
+High initial conditions,High sucept. children,YLL,0.022549368407120334
+High initial conditions,High sucept. children,infections,0.4462588266047496
+High initial conditions,Low effectiveness 60,deaths,0.000986080617534467
+High initial conditions,Low effectiveness 60,YLL,0.01664830757138687
+High initial conditions,Low effectiveness 60,infections,0.2840978490029754
+High initial conditions,Low effectiveness,deaths,0.0011938214688479026
+High initial conditions,Low effectiveness,YLL,0.020654230284090566
+High initial conditions,Low effectiveness,infections,0.36420694013032634
+High initial conditions,Schools open,deaths,0.00135325106922998
+High initial conditions,Schools open,YLL,0.02433435458176459
+High initial conditions,Schools open,infections,0.4695282218944034
+High sucept. children,Base senario,deaths,0.0009676415611280374
+High sucept. children,Base senario,YLL,0.020841459179452914
+High sucept. children,Base senario,infections,0.31913475938636215
+High sucept. children,Weak NPI,deaths,0.001307122247033897
+High sucept. children,Weak NPI,YLL,0.025815971818322465
+High sucept. children,Weak NPI,infections,0.4138382599348849
+High sucept. children,Strong NPI,deaths,0.0004046009028883265
+High sucept. children,Strong NPI,YLL,0.011187900609532207
+High sucept. children,Strong NPI,infections,0.17225897309088334
+High sucept. children,High initial conditions,deaths,0.0011913974522277328
+High sucept. children,High initial conditions,YLL,0.023636278863823378
+High sucept. children,High initial conditions,infections,0.3985674524466006
+High sucept. children,High sucept. children,deaths,0.0012631895167628485
+High sucept. children,High sucept. children,YLL,0.024941990594942384
+High sucept. children,High sucept. children,infections,0.4730898988621861
+High sucept. children,Low effectiveness 60,deaths,0.000993747794208124
+High sucept. children,Low effectiveness 60,YLL,0.021707618367148664
+High sucept. children,Low effectiveness 60,infections,0.31128571003273336
+High sucept. children,Low effectiveness,deaths,0.0011961830477752646
+High sucept. children,Low effectiveness,YLL,0.023571368366469697
+High sucept. children,Low effectiveness,infections,0.3847270169050558
+High sucept. children,Schools open,deaths,0.0013573598264598565
+High sucept. children,Schools open,YLL,0.026436598626059574
+High sucept. children,Schools open,infections,0.49553685421745475
+Low effectiveness 60,Base senario,deaths,0.0009013373478948998
+Low effectiveness 60,Base senario,YLL,0.01420383341105108
+Low effectiveness 60,Base senario,infections,0.3197339847602981
+Low effectiveness 60,Weak NPI,deaths,0.001353184283146917
+Low effectiveness 60,Weak NPI,YLL,0.02127744255451669
+Low effectiveness 60,Weak NPI,infections,0.4148593272425542
+Low effectiveness 60,Strong NPI,deaths,0.00031329568686920306
+Low effectiveness 60,Strong NPI,YLL,0.005134803739015997
+Low effectiveness 60,Strong NPI,infections,0.1725373381923822
+Low effectiveness 60,High initial conditions,deaths,0.0012532540017774286
+Low effectiveness 60,High initial conditions,YLL,0.02086713438673727
+Low effectiveness 60,High initial conditions,infections,0.39905486464591067
+Low effectiveness 60,High sucept. children,deaths,0.0014011055721261981
+Low effectiveness 60,High sucept. children,YLL,0.022149663180398033
+Low effectiveness 60,High sucept. children,infections,0.4774910504784322
+Low effectiveness 60,Low effectiveness 60,deaths,0.0008541717504631892
+Low effectiveness 60,Low effectiveness 60,YLL,0.013361047234842278
+Low effectiveness 60,Low effectiveness 60,infections,0.3122444409059599
+Low effectiveness 60,Low effectiveness,deaths,0.0011553267076594696
+Low effectiveness 60,Low effectiveness,YLL,0.01908142799333834
+Low effectiveness 60,Low effectiveness,infections,0.38545154149672334
+Low effectiveness 60,Schools open,deaths,0.0015223893039926638
+Low effectiveness 60,Schools open,YLL,0.024742819261260734
+Low effectiveness 60,Schools open,infections,0.4966757277817805
+Low effectiveness,Base senario,deaths,0.0009631003417771869
+Low effectiveness,Base senario,YLL,0.014265078447702827
+Low effectiveness,Base senario,infections,0.31974308319772954
+Low effectiveness,Weak NPI,deaths,0.0014229746369186665
+Low effectiveness,Weak NPI,YLL,0.02125995740071012
+Low effectiveness,Weak NPI,infections,0.414723814643736
+Low effectiveness,Strong NPI,deaths,0.0003370526702176837
+Low effectiveness,Strong NPI,YLL,0.005155293462169322
+Low effectiveness,Strong NPI,infections,0.17250912298605994
+Low effectiveness,High initial conditions,deaths,0.001281959261591993
+Low effectiveness,High initial conditions,YLL,0.020713373519334076
+Low effectiveness,High initial conditions,infections,0.3989971839969136
+Low effectiveness,High sucept. children,deaths,0.0014543693397810996
+Low effectiveness,High sucept. children,YLL,0.022118089383731922
+Low effectiveness,High sucept. children,infections,0.4773268891007275
+Low effectiveness,Low effectiveness 60,deaths,0.0009199508168115974
+Low effectiveness,Low effectiveness 60,YLL,0.01341612948681126
+Low effectiveness,Low effectiveness 60,infections,0.31212300693412387
+Low effectiveness,Low effectiveness,deaths,0.001200207477731308
+Low effectiveness,Low effectiveness,YLL,0.019033407897920077
+Low effectiveness,Low effectiveness,infections,0.38535670337240413
+Low effectiveness,Schools open,deaths,0.0015815048476634128
+Low effectiveness,Schools open,YLL,0.024549261748466812
+Low effectiveness,Schools open,infections,0.496513874787002
+Schools open,Base senario,deaths,0.0009680913277286998
+Schools open,Base senario,YLL,0.020834822504355643
+Schools open,Base senario,infections,0.3173505019763078
+Schools open,Weak NPI,deaths,0.0013107487914051645
+Schools open,Weak NPI,YLL,0.025812155565974153
+Schools open,Weak NPI,infections,0.41150928982177526
+Schools open,Strong NPI,deaths,0.0004051045790018151
+Schools open,Strong NPI,YLL,0.01117956125019583
+Schools open,Strong NPI,infections,0.17160061290900175
+Schools open,High initial conditions,deaths,0.0011915150010483612
+Schools open,High initial conditions,YLL,0.023632790417321914
+Schools open,High initial conditions,infections,0.3974380236221625
+Schools open,High sucept. children,deaths,0.0012631557927173802
+Schools open,High sucept. children,YLL,0.02493940247239582
+Schools open,High sucept. children,infections,0.4706003606284973
+Schools open,Low effectiveness 60,deaths,0.000994238318486949
+Schools open,Low effectiveness 60,YLL,0.02170055465352777
+Schools open,Low effectiveness 60,infections,0.3091192258531691
+Schools open,Low effectiveness,deaths,0.0011964411477696554
+Schools open,Low effectiveness,YLL,0.02356710187956038
+Schools open,Low effectiveness,infections,0.3831167274626217
+Schools open,Schools open,deaths,0.0013571214770762116
+Schools open,Schools open,YLL,0.026434115484484436
+Schools open,Schools open,infections,0.4899988358645263
